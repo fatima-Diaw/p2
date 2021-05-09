@@ -1,0 +1,22 @@
+/* CSS Document */
+.kitt{
+    border: 1px red solid;
+    width: 200px;
+    height: 160px;
+    text-align: center; 
+}
+
+input
+{
+    text-align: center;
+}
+
+h3
+{
+    color: black;
+}
+
+button
+{
+    color: black;
+}
